@@ -1,0 +1,375 @@
+country_or_area,year,quantity,category,transaction_type,additional_transaction_info,metrics,calculation_unit
+United States,1990,288960.0,hydro,total hydro production,,kilowatt-hours,million
+United States,1991,309155.0,hydro,total hydro production,,kilowatt-hours,million
+United States,1992,274883.0,hydro,total hydro production,,kilowatt-hours,million
+United States,1993,303060.0,hydro,total hydro production,,kilowatt-hours,million
+United States,1994,284373.0,hydro,total hydro production,,kilowatt-hours,million
+United States,1995,337856.0,hydro,total hydro production,,kilowatt-hours,million
+United States,1996,376702.0,hydro,total hydro production,,kilowatt-hours,million
+United States,1997,358685.0,hydro,total hydro production,,kilowatt-hours,million
+United States,1998,322080.0,hydro,total hydro production,,kilowatt-hours,million
+United States,1999,301793.0,hydro,total hydro production,,kilowatt-hours,million
+United States,2000,279986.0,hydro,total hydro production,,kilowatt-hours,million
+United States,2001,214728.0,hydro,total hydro production,,kilowatt-hours,million
+United States,2002,291755.0,hydro,total hydro production,,kilowatt-hours,million
+United States,2003,305724.0,hydro,total hydro production,,kilowatt-hours,million
+United States,2004,297894.0,hydro,total hydro production,,kilowatt-hours,million
+United States,2005,297926.0,hydro,total hydro production,,kilowatt-hours,million
+United States,2006,317689.0,hydro,total hydro production,,kilowatt-hours,million
+United States,2007,275545.0,hydro,total hydro production,,kilowatt-hours,million
+United States,2008,281995.0,hydro,total hydro production,,kilowatt-hours,million
+United States,2009,298410.0,hydro,total hydro production,,kilowatt-hours,million
+United States,2010,286333.0,hydro,total hydro production,,kilowatt-hours,million
+United States,2011,344679.0,hydro,total hydro production,,kilowatt-hours,million
+United States,2012,298287.0,hydro,total hydro production,,kilowatt-hours,million
+United States,2013,290113.0,hydro,total hydro production,,kilowatt-hours,million
+United States,2014,281527.0,hydro,total hydro production,,kilowatt-hours,million
+Canada,1990,296848.0,hydro,total hydro production,,kilowatt-hours,million
+Canada,1991,308375.0,hydro,total hydro production,,kilowatt-hours,million
+Canada,1992,316489.0,hydro,total hydro production,,kilowatt-hours,million
+Canada,1993,323667.0,hydro,total hydro production,,kilowatt-hours,million
+Canada,1994,329945.0,hydro,total hydro production,,kilowatt-hours,million
+Canada,1995,336034.0,hydro,total hydro production,,kilowatt-hours,million
+Canada,1996,355758.0,hydro,total hydro production,,kilowatt-hours,million
+Canada,1997,350809.0,hydro,total hydro production,,kilowatt-hours,million
+Canada,1998,332001.0,hydro,total hydro production,,kilowatt-hours,million
+Canada,1999,345874.0,hydro,total hydro production,,kilowatt-hours,million
+Canada,2000,358620.0,hydro,total hydro production,,kilowatt-hours,million
+Canada,2001,333430.0,hydro,total hydro production,,kilowatt-hours,million
+Canada,2002,350665.0,hydro,total hydro production,,kilowatt-hours,million
+Canada,2003,337556.0,hydro,total hydro production,,kilowatt-hours,million
+Canada,2004,340946.0,hydro,total hydro production,,kilowatt-hours,million
+Canada,2005,362031.0,hydro,total hydro production,,kilowatt-hours,million
+Canada,2006,352963.0,hydro,total hydro production,,kilowatt-hours,million
+Canada,2007,367695.0,hydro,total hydro production,,kilowatt-hours,million
+Canada,2008,377561.0,hydro,total hydro production,,kilowatt-hours,million
+Canada,2009,368762.0,hydro,total hydro production,,kilowatt-hours,million
+Canada,2010,351461.0,hydro,total hydro production,,kilowatt-hours,million
+Canada,2011,375797.0,hydro,total hydro production,,kilowatt-hours,million
+Canada,2012,380340.0,hydro,total hydro production,,kilowatt-hours,million
+Canada,2013,391861.0,hydro,total hydro production,,kilowatt-hours,million
+Canada,2014,382574.0,hydro,total hydro production,,kilowatt-hours,million
+China,1990,126720.0,hydro,total hydro production,,kilowatt-hours,million
+China,1991,125090.0,hydro,total hydro production,,kilowatt-hours,million
+China,1992,132470.0,hydro,total hydro production,,kilowatt-hours,million
+China,1993,151800.0,hydro,total hydro production,,kilowatt-hours,million
+China,1994,168113.0,hydro,total hydro production,,kilowatt-hours,million
+China,1995,190577.0,hydro,total hydro production,,kilowatt-hours,million
+China,1996,187966.0,hydro,total hydro production,,kilowatt-hours,million
+China,1997,195983.0,hydro,total hydro production,,kilowatt-hours,million
+China,1998,208000.0,hydro,total hydro production,,kilowatt-hours,million
+China,1999,203810.0,hydro,total hydro production,,kilowatt-hours,million
+China,2000,222414.0,hydro,total hydro production,,kilowatt-hours,million
+China,2001,277432.0,hydro,total hydro production,,kilowatt-hours,million
+China,2002,287974.0,hydro,total hydro production,,kilowatt-hours,million
+China,2003,283681.0,hydro,total hydro production,,kilowatt-hours,million
+China,2004,353544.0,hydro,total hydro production,,kilowatt-hours,million
+China,2005,397017.0,hydro,total hydro production,,kilowatt-hours,million
+China,2006,435786.0,hydro,total hydro production,,kilowatt-hours,million
+China,2007,485264.0,hydro,total hydro production,,kilowatt-hours,million
+China,2008,585187.0,hydro,total hydro production,,kilowatt-hours,million
+China,2009,615640.0,hydro,total hydro production,,kilowatt-hours,million
+China,2010,722172.0,hydro,total hydro production,,kilowatt-hours,million
+China,2011,698945.0,hydro,total hydro production,,kilowatt-hours,million
+China,2012,872107.0,hydro,total hydro production,,kilowatt-hours,million
+China,2013,920291.0,hydro,total hydro production,,kilowatt-hours,million
+China,2014,1064337.0,hydro,total hydro production,,kilowatt-hours,million
+India,1990,71656.0,hydro,total hydro production,,kilowatt-hours,million
+India,1991,72775.0,hydro,total hydro production,,kilowatt-hours,million
+India,1992,69886.0,hydro,total hydro production,,kilowatt-hours,million
+India,1993,70478.0,hydro,total hydro production,,kilowatt-hours,million
+India,1994,82727.0,hydro,total hydro production,,kilowatt-hours,million
+India,1995,72596.0,hydro,total hydro production,,kilowatt-hours,million
+India,1996,68919.0,hydro,total hydro production,,kilowatt-hours,million
+India,1997,74661.0,hydro,total hydro production,,kilowatt-hours,million
+India,1998,83003.0,hydro,total hydro production,,kilowatt-hours,million
+India,1999,80854.0,hydro,total hydro production,,kilowatt-hours,million
+India,2000,74362.0,hydro,total hydro production,,kilowatt-hours,million
+India,2001,73579.0,hydro,total hydro production,,kilowatt-hours,million
+India,2002,64104.0,hydro,total hydro production,,kilowatt-hours,million
+India,2003,75339.0,hydro,total hydro production,,kilowatt-hours,million
+India,2004,84723.0,hydro,total hydro production,,kilowatt-hours,million
+India,2005,101730.0,hydro,total hydro production,,kilowatt-hours,million
+India,2006,113720.0,hydro,total hydro production,,kilowatt-hours,million
+India,2007,120589.0,hydro,total hydro production,,kilowatt-hours,million
+India,2008,114337.0,hydro,total hydro production,,kilowatt-hours,million
+India,2009,106909.0,hydro,total hydro production,,kilowatt-hours,million
+India,2010,114486.0,hydro,total hydro production,,kilowatt-hours,million
+India,2011,103741.0,hydro,total hydro production,,kilowatt-hours,million
+India,2012,113855.0,hydro,total hydro production,,kilowatt-hours,million
+India,2013,141637.0,hydro,total hydro production,,kilowatt-hours,million
+India,2014,129353.0,hydro,total hydro production,,kilowatt-hours,million
+United Kingdom,1990,7189.0,hydro,total hydro production,,kilowatt-hours,million
+United Kingdom,1991,6147.0,hydro,total hydro production,,kilowatt-hours,million
+United Kingdom,1992,7128.0,hydro,total hydro production,,kilowatt-hours,million
+United Kingdom,1993,5739.0,hydro,total hydro production,,kilowatt-hours,million
+United Kingdom,1994,6557.0,hydro,total hydro production,,kilowatt-hours,million
+United Kingdom,1995,6390.0,hydro,total hydro production,,kilowatt-hours,million
+United Kingdom,1996,4949.0,hydro,total hydro production,,kilowatt-hours,million
+United Kingdom,1997,5655.0,hydro,total hydro production,,kilowatt-hours,million
+United Kingdom,1998,6742.0,hydro,total hydro production,,kilowatt-hours,million
+United Kingdom,1999,8238.0,hydro,total hydro production,,kilowatt-hours,million
+United Kingdom,2000,7780.0,hydro,total hydro production,,kilowatt-hours,million
+United Kingdom,2001,6478.0,hydro,total hydro production,,kilowatt-hours,million
+United Kingdom,2002,7439.0,hydro,total hydro production,,kilowatt-hours,million
+United Kingdom,2003,5961.0,hydro,total hydro production,,kilowatt-hours,million
+United Kingdom,2004,7492.0,hydro,total hydro production,,kilowatt-hours,million
+United Kingdom,2005,7852.0,hydro,total hydro production,,kilowatt-hours,million
+United Kingdom,2006,8446.0,hydro,total hydro production,,kilowatt-hours,million
+United Kingdom,2007,8936.0,hydro,total hydro production,,kilowatt-hours,million
+United Kingdom,2008,9234.0,hydro,total hydro production,,kilowatt-hours,million
+United Kingdom,2009,8915.0,hydro,total hydro production,,kilowatt-hours,million
+United Kingdom,2010,6715.0,hydro,total hydro production,,kilowatt-hours,million
+United Kingdom,2011,8585.0,hydro,total hydro production,,kilowatt-hours,million
+United Kingdom,2012,8252.0,hydro,total hydro production,,kilowatt-hours,million
+United Kingdom,2013,7606.0,hydro,total hydro production,,kilowatt-hours,million
+United Kingdom,2014,8768.0,hydro,total hydro production,,kilowatt-hours,million
+France,1990,57418.0,hydro,total hydro production,,kilowatt-hours,million
+France,1991,61545.0,hydro,total hydro production,,kilowatt-hours,million
+France,1992,72584.0,hydro,total hydro production,,kilowatt-hours,million
+France,1993,67948.0,hydro,total hydro production,,kilowatt-hours,million
+France,1994,81069.0,hydro,total hydro production,,kilowatt-hours,million
+France,1995,76192.0,hydro,total hydro production,,kilowatt-hours,million
+France,1996,70282.0,hydro,total hydro production,,kilowatt-hours,million
+France,1997,67559.0,hydro,total hydro production,,kilowatt-hours,million
+France,1998,66103.0,hydro,total hydro production,,kilowatt-hours,million
+France,1999,77083.0,hydro,total hydro production,,kilowatt-hours,million
+France,2000,71133.0,hydro,total hydro production,,kilowatt-hours,million
+France,2001,78511.0,hydro,total hydro production,,kilowatt-hours,million
+France,2002,65831.0,hydro,total hydro production,,kilowatt-hours,million
+France,2003,64279.0,hydro,total hydro production,,kilowatt-hours,million
+France,2004,64899.0,hydro,total hydro production,,kilowatt-hours,million
+France,2005,56332.0,hydro,total hydro production,,kilowatt-hours,million
+France,2006,61742.0,hydro,total hydro production,,kilowatt-hours,million
+France,2007,63260.0,hydro,total hydro production,,kilowatt-hours,million
+France,2008,68368.0,hydro,total hydro production,,kilowatt-hours,million
+France,2009,61969.0,hydro,total hydro production,,kilowatt-hours,million
+France,2010,67525.0,hydro,total hydro production,,kilowatt-hours,million
+France,2011,49865.0,hydro,total hydro production,,kilowatt-hours,million
+France,2012,63594.0,hydro,total hydro production,,kilowatt-hours,million
+France,2013,75867.0,hydro,total hydro production,,kilowatt-hours,million
+France,2014,68626.0,hydro,total hydro production,,kilowatt-hours,million
+Germany,1991,18699.0,hydro,total hydro production,,kilowatt-hours,million
+Germany,1992,21195.0,hydro,total hydro production,,kilowatt-hours,million
+Germany,1993,21667.0,hydro,total hydro production,,kilowatt-hours,million
+Germany,1994,23885.0,hydro,total hydro production,,kilowatt-hours,million
+Germany,1995,26250.0,hydro,total hydro production,,kilowatt-hours,million
+Germany,1996,26638.0,hydro,total hydro production,,kilowatt-hours,million
+Germany,1997,20900.0,hydro,total hydro production,,kilowatt-hours,million
+Germany,1998,21234.0,hydro,total hydro production,,kilowatt-hours,million
+Germany,1999,23402.0,hydro,total hydro production,,kilowatt-hours,million
+Germany,2000,25962.0,hydro,total hydro production,,kilowatt-hours,million
+Germany,2001,27253.0,hydro,total hydro production,,kilowatt-hours,million
+Germany,2002,27864.0,hydro,total hydro production,,kilowatt-hours,million
+Germany,2003,22897.0,hydro,total hydro production,,kilowatt-hours,million
+Germany,2004,26460.0,hydro,total hydro production,,kilowatt-hours,million
+Germany,2005,26417.0,hydro,total hydro production,,kilowatt-hours,million
+Germany,2006,26768.0,hydro,total hydro production,,kilowatt-hours,million
+Germany,2007,28084.0,hydro,total hydro production,,kilowatt-hours,million
+Germany,2008,26469.0,hydro,total hydro production,,kilowatt-hours,million
+Germany,2009,24682.0,hydro,total hydro production,,kilowatt-hours,million
+Germany,2010,27353.0,hydro,total hydro production,,kilowatt-hours,million
+Germany,2011,23511.0,hydro,total hydro production,,kilowatt-hours,million
+Germany,2012,27849.0,hydro,total hydro production,,kilowatt-hours,million
+Germany,2013,28782.0,hydro,total hydro production,,kilowatt-hours,million
+Germany,2014,25444.0,hydro,total hydro production,,kilowatt-hours,million
+Italy,1990,35079.0,hydro,total hydro production,,kilowatt-hours,million
+Italy,1991,45606.0,hydro,total hydro production,,kilowatt-hours,million
+Italy,1992,45786.0,hydro,total hydro production,,kilowatt-hours,million
+Italy,1993,44482.0,hydro,total hydro production,,kilowatt-hours,million
+Italy,1994,47731.0,hydro,total hydro production,,kilowatt-hours,million
+Italy,1995,41907.0,hydro,total hydro production,,kilowatt-hours,million
+Italy,1996,47072.0,hydro,total hydro production,,kilowatt-hours,million
+Italy,1997,46552.0,hydro,total hydro production,,kilowatt-hours,million
+Italy,1998,47365.0,hydro,total hydro production,,kilowatt-hours,million
+Italy,1999,51777.0,hydro,total hydro production,,kilowatt-hours,million
+Italy,2000,50899.0,hydro,total hydro production,,kilowatt-hours,million
+Italy,2001,53926.0,hydro,total hydro production,,kilowatt-hours,million
+Italy,2002,47261.0,hydro,total hydro production,,kilowatt-hours,million
+Italy,2003,44277.0,hydro,total hydro production,,kilowatt-hours,million
+Italy,2004,49908.0,hydro,total hydro production,,kilowatt-hours,million
+Italy,2005,42927.0,hydro,total hydro production,,kilowatt-hours,million
+Italy,2006,43425.0,hydro,total hydro production,,kilowatt-hours,million
+Italy,2007,38482.0,hydro,total hydro production,,kilowatt-hours,million
+Italy,2008,47227.0,hydro,total hydro production,,kilowatt-hours,million
+Italy,2009,53443.0,hydro,total hydro production,,kilowatt-hours,million
+Italy,2010,54406.0,hydro,total hydro production,,kilowatt-hours,million
+Italy,2011,47757.0,hydro,total hydro production,,kilowatt-hours,million
+Italy,2012,43854.0,hydro,total hydro production,,kilowatt-hours,million
+Italy,2013,54672.0,hydro,total hydro production,,kilowatt-hours,million
+Italy,2014,60256.0,hydro,total hydro production,,kilowatt-hours,million
+Netherlands,1990,85.0,hydro,total hydro production,,kilowatt-hours,million
+Netherlands,1991,104.0,hydro,total hydro production,,kilowatt-hours,million
+Netherlands,1992,120.0,hydro,total hydro production,,kilowatt-hours,million
+Netherlands,1993,92.0,hydro,total hydro production,,kilowatt-hours,million
+Netherlands,1994,100.0,hydro,total hydro production,,kilowatt-hours,million
+Netherlands,1995,88.0,hydro,total hydro production,,kilowatt-hours,million
+Netherlands,1996,80.0,hydro,total hydro production,,kilowatt-hours,million
+Netherlands,1997,92.0,hydro,total hydro production,,kilowatt-hours,million
+Netherlands,1998,112.0,hydro,total hydro production,,kilowatt-hours,million
+Netherlands,1999,90.0,hydro,total hydro production,,kilowatt-hours,million
+Netherlands,2000,142.0,hydro,total hydro production,,kilowatt-hours,million
+Netherlands,2001,117.0,hydro,total hydro production,,kilowatt-hours,million
+Netherlands,2002,110.0,hydro,total hydro production,,kilowatt-hours,million
+Netherlands,2003,72.0,hydro,total hydro production,,kilowatt-hours,million
+Netherlands,2004,95.0,hydro,total hydro production,,kilowatt-hours,million
+Netherlands,2005,88.0,hydro,total hydro production,,kilowatt-hours,million
+Netherlands,2006,106.0,hydro,total hydro production,,kilowatt-hours,million
+Netherlands,2007,107.0,hydro,total hydro production,,kilowatt-hours,million
+Netherlands,2008,102.0,hydro,total hydro production,,kilowatt-hours,million
+Netherlands,2009,98.0,hydro,total hydro production,,kilowatt-hours,million
+Netherlands,2010,105.0,hydro,total hydro production,,kilowatt-hours,million
+Netherlands,2011,57.0,hydro,total hydro production,,kilowatt-hours,million
+Netherlands,2012,104.0,hydro,total hydro production,,kilowatt-hours,million
+Netherlands,2013,114.0,hydro,total hydro production,,kilowatt-hours,million
+Netherlands,2014,112.0,hydro,total hydro production,,kilowatt-hours,million
+Norway,1990,121382.0,hydro,total hydro production,,kilowatt-hours,million
+Norway,1991,110580.0,hydro,total hydro production,,kilowatt-hours,million
+Norway,1992,117062.0,hydro,total hydro production,,kilowatt-hours,million
+Norway,1993,119622.0,hydro,total hydro production,,kilowatt-hours,million
+Norway,1994,112676.0,hydro,total hydro production,,kilowatt-hours,million
+Norway,1995,122487.0,hydro,total hydro production,,kilowatt-hours,million
+Norway,1996,104148.0,hydro,total hydro production,,kilowatt-hours,million
+Norway,1997,110938.0,hydro,total hydro production,,kilowatt-hours,million
+Norway,1998,116280.0,hydro,total hydro production,,kilowatt-hours,million
+Norway,1999,121882.0,hydro,total hydro production,,kilowatt-hours,million
+Norway,2000,142289.0,hydro,total hydro production,,kilowatt-hours,million
+Norway,2001,121026.0,hydro,total hydro production,,kilowatt-hours,million
+Norway,2002,129837.0,hydro,total hydro production,,kilowatt-hours,million
+Norway,2003,106084.0,hydro,total hydro production,,kilowatt-hours,million
+Norway,2004,109291.0,hydro,total hydro production,,kilowatt-hours,million
+Norway,2005,136452.0,hydro,total hydro production,,kilowatt-hours,million
+Norway,2006,119729.0,hydro,total hydro production,,kilowatt-hours,million
+Norway,2007,134736.0,hydro,total hydro production,,kilowatt-hours,million
+Norway,2008,139981.0,hydro,total hydro production,,kilowatt-hours,million
+Norway,2009,126077.0,hydro,total hydro production,,kilowatt-hours,million
+Norway,2010,117152.0,hydro,total hydro production,,kilowatt-hours,million
+Norway,2011,121552.0,hydro,total hydro production,,kilowatt-hours,million
+Norway,2012,142812.0,hydro,total hydro production,,kilowatt-hours,million
+Norway,2013,128699.0,hydro,total hydro production,,kilowatt-hours,million
+Norway,2014,136636.0,hydro,total hydro production,,kilowatt-hours,million
+Poland,1990,3313.0,hydro,total hydro production,,kilowatt-hours,million
+Poland,1991,3411.0,hydro,total hydro production,,kilowatt-hours,million
+Poland,1992,3570.0,hydro,total hydro production,,kilowatt-hours,million
+Poland,1993,3576.0,hydro,total hydro production,,kilowatt-hours,million
+Poland,1994,3786.0,hydro,total hydro production,,kilowatt-hours,million
+Poland,1995,3851.0,hydro,total hydro production,,kilowatt-hours,million
+Poland,1996,3910.0,hydro,total hydro production,,kilowatt-hours,million
+Poland,1997,3816.0,hydro,total hydro production,,kilowatt-hours,million
+Poland,1998,4327.0,hydro,total hydro production,,kilowatt-hours,million
+Poland,1999,4282.0,hydro,total hydro production,,kilowatt-hours,million
+Poland,2000,4116.0,hydro,total hydro production,,kilowatt-hours,million
+Poland,2001,4220.0,hydro,total hydro production,,kilowatt-hours,million
+Poland,2002,3906.0,hydro,total hydro production,,kilowatt-hours,million
+Poland,2003,3293.0,hydro,total hydro production,,kilowatt-hours,million
+Poland,2004,3691.0,hydro,total hydro production,,kilowatt-hours,million
+Poland,2005,3778.0,hydro,total hydro production,,kilowatt-hours,million
+Poland,2006,3020.0,hydro,total hydro production,,kilowatt-hours,million
+Poland,2007,2939.0,hydro,total hydro production,,kilowatt-hours,million
+Poland,2008,2747.0,hydro,total hydro production,,kilowatt-hours,million
+Poland,2009,2974.0,hydro,total hydro production,,kilowatt-hours,million
+Poland,2010,3488.0,hydro,total hydro production,,kilowatt-hours,million
+Poland,2011,2761.0,hydro,total hydro production,,kilowatt-hours,million
+Poland,2012,2465.0,hydro,total hydro production,,kilowatt-hours,million
+Poland,2013,2997.0,hydro,total hydro production,,kilowatt-hours,million
+Poland,2014,2734.0,hydro,total hydro production,,kilowatt-hours,million
+Spain,1990,26184.0,hydro,total hydro production,,kilowatt-hours,million
+Spain,1991,28293.0,hydro,total hydro production,,kilowatt-hours,million
+Spain,1992,20934.0,hydro,total hydro production,,kilowatt-hours,million
+Spain,1993,25779.0,hydro,total hydro production,,kilowatt-hours,million
+Spain,1994,29182.0,hydro,total hydro production,,kilowatt-hours,million
+Spain,1995,24569.0,hydro,total hydro production,,kilowatt-hours,million
+Spain,1996,40874.0,hydro,total hydro production,,kilowatt-hours,million
+Spain,1997,36002.0,hydro,total hydro production,,kilowatt-hours,million
+Spain,1998,35806.0,hydro,total hydro production,,kilowatt-hours,million
+Spain,1999,25437.0,hydro,total hydro production,,kilowatt-hours,million
+Spain,2000,31807.0,hydro,total hydro production,,kilowatt-hours,million
+Spain,2001,43864.0,hydro,total hydro production,,kilowatt-hours,million
+Spain,2002,26270.0,hydro,total hydro production,,kilowatt-hours,million
+Spain,2003,43897.0,hydro,total hydro production,,kilowatt-hours,million
+Spain,2004,34439.0,hydro,total hydro production,,kilowatt-hours,million
+Spain,2005,23025.0,hydro,total hydro production,,kilowatt-hours,million
+Spain,2006,29831.0,hydro,total hydro production,,kilowatt-hours,million
+Spain,2007,30522.0,hydro,total hydro production,,kilowatt-hours,million
+Spain,2008,26144.0,hydro,total hydro production,,kilowatt-hours,million
+Spain,2009,29162.0,hydro,total hydro production,,kilowatt-hours,million
+Spain,2010,45511.0,hydro,total hydro production,,kilowatt-hours,million
+Spain,2011,32911.0,hydro,total hydro production,,kilowatt-hours,million
+Spain,2012,24162.0,hydro,total hydro production,,kilowatt-hours,million
+Spain,2013,41052.0,hydro,total hydro production,,kilowatt-hours,million
+Spain,2014,42970.0,hydro,total hydro production,,kilowatt-hours,million
+Sweden,1990,73033.0,hydro,total hydro production,,kilowatt-hours,million
+Sweden,1991,63662.0,hydro,total hydro production,,kilowatt-hours,million
+Sweden,1992,74861.0,hydro,total hydro production,,kilowatt-hours,million
+Sweden,1993,75216.0,hydro,total hydro production,,kilowatt-hours,million
+Sweden,1994,59453.0,hydro,total hydro production,,kilowatt-hours,million
+Sweden,1995,68160.0,hydro,total hydro production,,kilowatt-hours,million
+Sweden,1996,51775.0,hydro,total hydro production,,kilowatt-hours,million
+Sweden,1997,69099.0,hydro,total hydro production,,kilowatt-hours,million
+Sweden,1998,75040.0,hydro,total hydro production,,kilowatt-hours,million
+Sweden,1999,71713.0,hydro,total hydro production,,kilowatt-hours,million
+Sweden,2000,78619.0,hydro,total hydro production,,kilowatt-hours,million
+Sweden,2001,79082.0,hydro,total hydro production,,kilowatt-hours,million
+Sweden,2002,66395.0,hydro,total hydro production,,kilowatt-hours,million
+Sweden,2003,53598.0,hydro,total hydro production,,kilowatt-hours,million
+Sweden,2004,60178.0,hydro,total hydro production,,kilowatt-hours,million
+Sweden,2005,72874.0,hydro,total hydro production,,kilowatt-hours,million
+Sweden,2006,61856.0,hydro,total hydro production,,kilowatt-hours,million
+Sweden,2007,66262.0,hydro,total hydro production,,kilowatt-hours,million
+Sweden,2008,69211.0,hydro,total hydro production,,kilowatt-hours,million
+Sweden,2009,65977.0,hydro,total hydro production,,kilowatt-hours,million
+Sweden,2010,66501.0,hydro,total hydro production,,kilowatt-hours,million
+Sweden,2011,66556.0,hydro,total hydro production,,kilowatt-hours,million
+Sweden,2012,79058.0,hydro,total hydro production,,kilowatt-hours,million
+Sweden,2013,61496.0,hydro,total hydro production,,kilowatt-hours,million
+Sweden,2014,63872.0,hydro,total hydro production,,kilowatt-hours,million
+Switzerland,1990,30982.0,hydro,total hydro production,,kilowatt-hours,million
+Switzerland,1991,33413.0,hydro,total hydro production,,kilowatt-hours,million
+Switzerland,1992,34062.0,hydro,total hydro production,,kilowatt-hours,million
+Switzerland,1993,36612.0,hydro,total hydro production,,kilowatt-hours,million
+Switzerland,1994,39952.0,hydro,total hydro production,,kilowatt-hours,million
+Switzerland,1995,35954.0,hydro,total hydro production,,kilowatt-hours,million
+Switzerland,1996,29995.0,hydro,total hydro production,,kilowatt-hours,million
+Switzerland,1997,35142.0,hydro,total hydro production,,kilowatt-hours,million
+Switzerland,1998,34637.0,hydro,total hydro production,,kilowatt-hours,million
+Switzerland,1999,41022.0,hydro,total hydro production,,kilowatt-hours,million
+Switzerland,2000,38230.0,hydro,total hydro production,,kilowatt-hours,million
+Switzerland,2001,42673.0,hydro,total hydro production,,kilowatt-hours,million
+Switzerland,2002,36924.0,hydro,total hydro production,,kilowatt-hours,million
+Switzerland,2003,36865.0,hydro,total hydro production,,kilowatt-hours,million
+Switzerland,2004,35468.0,hydro,total hydro production,,kilowatt-hours,million
+Switzerland,2005,33086.0,hydro,total hydro production,,kilowatt-hours,million
+Switzerland,2006,32883.0,hydro,total hydro production,,kilowatt-hours,million
+Switzerland,2007,36737.0,hydro,total hydro production,,kilowatt-hours,million
+Switzerland,2008,37935.0,hydro,total hydro production,,kilowatt-hours,million
+Switzerland,2009,37507.0,hydro,total hydro production,,kilowatt-hours,million
+Switzerland,2010,37825.0,hydro,total hydro production,,kilowatt-hours,million
+Switzerland,2011,34133.0,hydro,total hydro production,,kilowatt-hours,million
+Switzerland,2012,40305.0,hydro,total hydro production,,kilowatt-hours,million
+Switzerland,2013,39968.0,hydro,total hydro production,,kilowatt-hours,million
+Switzerland,2014,39701.0,hydro,total hydro production,,kilowatt-hours,million
+Turkey,1990,23148.0,hydro,total hydro production,,kilowatt-hours,million
+Turkey,1991,22683.0,hydro,total hydro production,,kilowatt-hours,million
+Turkey,1992,26568.0,hydro,total hydro production,,kilowatt-hours,million
+Turkey,1993,33951.0,hydro,total hydro production,,kilowatt-hours,million
+Turkey,1994,30586.0,hydro,total hydro production,,kilowatt-hours,million
+Turkey,1995,35541.0,hydro,total hydro production,,kilowatt-hours,million
+Turkey,1996,40475.0,hydro,total hydro production,,kilowatt-hours,million
+Turkey,1997,39816.0,hydro,total hydro production,,kilowatt-hours,million
+Turkey,1998,42229.0,hydro,total hydro production,,kilowatt-hours,million
+Turkey,1999,34677.0,hydro,total hydro production,,kilowatt-hours,million
+Turkey,2000,30879.0,hydro,total hydro production,,kilowatt-hours,million
+Turkey,2001,24010.0,hydro,total hydro production,,kilowatt-hours,million
+Turkey,2002,33683.0,hydro,total hydro production,,kilowatt-hours,million
+Turkey,2003,35330.0,hydro,total hydro production,,kilowatt-hours,million
+Turkey,2004,46084.0,hydro,total hydro production,,kilowatt-hours,million
+Turkey,2005,39561.0,hydro,total hydro production,,kilowatt-hours,million
+Turkey,2006,44244.0,hydro,total hydro production,,kilowatt-hours,million
+Turkey,2007,35851.0,hydro,total hydro production,,kilowatt-hours,million
+Turkey,2008,33270.0,hydro,total hydro production,,kilowatt-hours,million
+Turkey,2009,35958.0,hydro,total hydro production,,kilowatt-hours,million
+Turkey,2010,51796.0,hydro,total hydro production,,kilowatt-hours,million
+Turkey,2011,52338.0,hydro,total hydro production,,kilowatt-hours,million
+Turkey,2012,57865.0,hydro,total hydro production,,kilowatt-hours,million
+Turkey,2013,59420.0,hydro,total hydro production,,kilowatt-hours,million
+Turkey,2014,40645.0,hydro,total hydro production,,kilowatt-hours,million

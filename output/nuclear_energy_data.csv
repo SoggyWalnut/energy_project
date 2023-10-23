@@ -1,0 +1,273 @@
+country_or_area,year,quantity,category,transaction_type,additional_transaction_info,metrics,calculation_unit
+United States,1990,611589.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+United States,1991,649399.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+United States,1992,655970.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+United States,1993,646987.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+United States,1994,678920.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+United States,1995,713806.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+United States,1996,715212.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+United States,1997,666363.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+United States,1998,714124.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+United States,1999,771811.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+United States,2000,797718.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+United States,2001,792604.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+United States,2002,804519.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+United States,2003,787818.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+United States,2004,813339.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+United States,2005,810726.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+United States,2006,816195.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+United States,2007,836634.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+United States,2008,837804.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+United States,2009,830210.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+United States,2010,838931.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+United States,2011,821405.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+United States,2012,801129.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+United States,2013,822004.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+United States,2014,830584.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Canada,1990,72967.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Canada,1991,84930.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Canada,1992,80582.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Canada,1993,93937.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Canada,1994,107834.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Canada,1995,97844.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Canada,1996,92767.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Canada,1997,82528.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Canada,1998,71511.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Canada,1999,73491.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Canada,2000,72799.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Canada,2001,76695.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Canada,2002,75526.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Canada,2003,74892.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Canada,2004,90387.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Canada,2005,92040.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Canada,2006,97964.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Canada,2007,93482.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Canada,2008,96020.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Canada,2009,90091.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Canada,2010,90658.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Canada,2011,93589.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Canada,2012,94862.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Canada,2013,103439.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Canada,2014,107678.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+China,1992,500.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+China,1993,2500.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+China,1994,14043.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+China,1995,12833.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+China,1996,14300.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+China,1997,14418.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+China,1998,14100.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+China,1999,14950.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+China,2000,16737.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+China,2001,17472.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+China,2002,25127.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+China,2003,43342.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+China,2004,50469.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+China,2005,53088.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+China,2006,54843.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+China,2007,62130.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+China,2008,68394.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+China,2009,70134.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+China,2010,73880.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+China,2011,86350.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+China,2012,97394.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+China,2013,111613.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+China,2014,132538.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+India,1990,6141.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+India,1991,5524.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+India,1992,6726.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+India,1993,5398.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+India,1994,5648.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+India,1995,7982.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+India,1996,9071.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+India,1997,10083.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+India,1998,11923.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+India,1999,13249.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+India,2000,16902.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+India,2001,19475.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+India,2002,19390.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+India,2003,17780.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+India,2004,17011.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+India,2005,17334.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+India,2006,18802.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+India,2007,16957.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+India,2008,14713.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+India,2009,18636.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+India,2010,26266.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+India,2011,32287.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+India,2012,32871.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+India,2013,34228.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+India,2014,36102.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+United Kingdom,1990,65749.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+United Kingdom,1991,70543.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+United Kingdom,1992,76807.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+United Kingdom,1993,89353.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+United Kingdom,1994,88282.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+United Kingdom,1995,88964.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+United Kingdom,1996,94671.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+United Kingdom,1997,98146.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+United Kingdom,1998,99486.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+United Kingdom,1999,95133.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+United Kingdom,2000,85063.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+United Kingdom,2001,90094.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+United Kingdom,2002,87848.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+United Kingdom,2003,88686.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+United Kingdom,2004,79999.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+United Kingdom,2005,81618.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+United Kingdom,2006,75451.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+United Kingdom,2007,63028.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+United Kingdom,2008,52486.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+United Kingdom,2009,69098.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+United Kingdom,2010,62140.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+United Kingdom,2011,68980.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+United Kingdom,2012,70405.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+United Kingdom,2013,70607.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+United Kingdom,2014,63748.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+France,1990,314081.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+France,1991,331340.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+France,1992,338445.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+France,1993,368188.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+France,1994,359981.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+France,1995,377231.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+France,1996,397340.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+France,1997,395483.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+France,1998,387990.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+France,1999,394244.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+France,2000,415162.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+France,2001,421076.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+France,2002,436760.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+France,2003,441070.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+France,2004,448241.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+France,2005,451529.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+France,2006,450191.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+France,2007,439730.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+France,2008,439447.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+France,2009,409736.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+France,2010,428521.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+France,2011,442383.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+France,2012,425406.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+France,2013,423685.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+France,2014,436474.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Germany,1991,147229.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Germany,1992,158804.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Germany,1993,153276.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Germany,1994,150703.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Germany,1995,153091.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Germany,1996,160016.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Germany,1997,170328.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Germany,1998,161644.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Germany,1999,170004.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Germany,2000,169606.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Germany,2001,171305.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Germany,2002,164842.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Germany,2003,165060.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Germany,2004,167065.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Germany,2005,163055.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Germany,2006,167269.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Germany,2007,140534.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Germany,2008,148495.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Germany,2009,134932.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Germany,2010,140556.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Germany,2011,107971.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Germany,2012,99460.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Germany,2013,97290.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Germany,2014,97129.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Netherlands,1990,3502.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Netherlands,1991,3329.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Netherlands,1992,3800.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Netherlands,1993,3948.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Netherlands,1994,3967.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Netherlands,1995,4018.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Netherlands,1996,4160.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Netherlands,1997,2408.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Netherlands,1998,3814.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Netherlands,1999,3832.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Netherlands,2000,3926.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Netherlands,2001,3976.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Netherlands,2002,3915.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Netherlands,2003,4018.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Netherlands,2004,3822.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Netherlands,2005,3997.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Netherlands,2006,3469.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Netherlands,2007,4200.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Netherlands,2008,4169.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Netherlands,2009,4248.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Netherlands,2010,3969.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Netherlands,2011,4141.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Netherlands,2012,3915.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Netherlands,2013,2891.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Netherlands,2014,4091.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Spain,1990,54268.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Spain,1991,55578.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Spain,1992,55782.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Spain,1993,56060.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Spain,1994,55313.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Spain,1995,55455.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Spain,1996,56330.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Spain,1997,55298.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Spain,1998,58993.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Spain,1999,58852.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Spain,2000,62206.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Spain,2001,63708.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Spain,2002,63016.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Spain,2003,61875.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Spain,2004,63606.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Spain,2005,57539.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Spain,2006,60126.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Spain,2007,55103.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Spain,2008,58973.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Spain,2009,52761.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Spain,2010,61990.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Spain,2011,57718.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Spain,2012,61470.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Spain,2013,56726.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Spain,2014,57305.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Sweden,1990,68185.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Sweden,1991,76761.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Sweden,1992,63544.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Sweden,1993,61395.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Sweden,1994,73156.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Sweden,1995,69935.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Sweden,1996,74274.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Sweden,1997,69928.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Sweden,1998,73583.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Sweden,1999,73188.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Sweden,2000,57316.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Sweden,2001,72109.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Sweden,2002,68111.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Sweden,2003,67415.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Sweden,2004,77486.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Sweden,2005,72377.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Sweden,2006,66977.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Sweden,2007,66969.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Sweden,2008,63889.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Sweden,2009,52173.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Sweden,2010,57828.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Sweden,2011,60475.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Sweden,2012,64037.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Sweden,2013,66457.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Sweden,2014,64877.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Switzerland,1990,23636.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Switzerland,1991,22953.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Switzerland,1992,23448.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Switzerland,1993,23351.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Switzerland,1994,24363.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Switzerland,1995,24895.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Switzerland,1996,25142.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Switzerland,1997,25409.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Switzerland,1998,25830.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Switzerland,1999,25830.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Switzerland,2000,26446.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Switzerland,2001,26811.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Switzerland,2002,27234.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Switzerland,2003,27487.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Switzerland,2004,26958.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Switzerland,2005,23341.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Switzerland,2006,27819.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Switzerland,2007,27925.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Switzerland,2008,27700.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Switzerland,2009,27686.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Switzerland,2010,26339.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Switzerland,2011,26710.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Switzerland,2012,25441.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Switzerland,2013,25990.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million
+Switzerland,2014,27557.0,nuclear_electricity,total nuclear production,,kilowatt-hours,million

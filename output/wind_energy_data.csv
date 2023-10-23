@@ -1,0 +1,335 @@
+country_or_area,year,quantity,category,transaction_type,additional_transaction_info,metrics,calculation_unit
+France,1993,2.0,wind_electricity,total wind production,,kilowatt-hours,million
+France,1994,5.0,wind_electricity,total wind production,,kilowatt-hours,million
+France,1995,5.0,wind_electricity,total wind production,,kilowatt-hours,million
+France,1996,7.0,wind_electricity,total wind production,,kilowatt-hours,million
+France,1997,11.0,wind_electricity,total wind production,,kilowatt-hours,million
+France,1998,19.0,wind_electricity,total wind production,,kilowatt-hours,million
+France,1999,37.0,wind_electricity,total wind production,,kilowatt-hours,million
+France,2000,48.0,wind_electricity,total wind production,,kilowatt-hours,million
+France,2001,131.0,wind_electricity,total wind production,,kilowatt-hours,million
+France,2002,265.0,wind_electricity,total wind production,,kilowatt-hours,million
+France,2003,388.0,wind_electricity,total wind production,,kilowatt-hours,million
+France,2004,595.0,wind_electricity,total wind production,,kilowatt-hours,million
+France,2005,962.0,wind_electricity,total wind production,,kilowatt-hours,million
+France,2006,2182.0,wind_electricity,total wind production,,kilowatt-hours,million
+France,2007,4070.0,wind_electricity,total wind production,,kilowatt-hours,million
+France,2008,5694.0,wind_electricity,total wind production,,kilowatt-hours,million
+France,2009,7912.0,wind_electricity,total wind production,,kilowatt-hours,million
+France,2010,9945.0,wind_electricity,total wind production,,kilowatt-hours,million
+France,2011,12051.0,wind_electricity,total wind production,,kilowatt-hours,million
+France,2012,14914.0,wind_electricity,total wind production,,kilowatt-hours,million
+France,2013,16034.0,wind_electricity,total wind production,,kilowatt-hours,million
+France,2014,17249.0,wind_electricity,total wind production,,kilowatt-hours,million
+Germany,1991,215.0,wind_electricity,total wind production,,kilowatt-hours,million
+Germany,1992,291.0,wind_electricity,total wind production,,kilowatt-hours,million
+Germany,1993,674.0,wind_electricity,total wind production,,kilowatt-hours,million
+Germany,1994,1428.0,wind_electricity,total wind production,,kilowatt-hours,million
+Germany,1995,1712.0,wind_electricity,total wind production,,kilowatt-hours,million
+Germany,1996,2078.0,wind_electricity,total wind production,,kilowatt-hours,million
+Germany,1997,3034.0,wind_electricity,total wind production,,kilowatt-hours,million
+Germany,1998,4593.0,wind_electricity,total wind production,,kilowatt-hours,million
+Germany,1999,5528.0,wind_electricity,total wind production,,kilowatt-hours,million
+Germany,2000,9352.0,wind_electricity,total wind production,,kilowatt-hours,million
+Germany,2001,10456.0,wind_electricity,total wind production,,kilowatt-hours,million
+Germany,2002,15856.0,wind_electricity,total wind production,,kilowatt-hours,million
+Germany,2003,18713.0,wind_electricity,total wind production,,kilowatt-hours,million
+Germany,2004,25509.0,wind_electricity,total wind production,,kilowatt-hours,million
+Germany,2005,27229.0,wind_electricity,total wind production,,kilowatt-hours,million
+Germany,2006,30710.0,wind_electricity,total wind production,,kilowatt-hours,million
+Germany,2007,39713.0,wind_electricity,total wind production,,kilowatt-hours,million
+Germany,2008,40574.0,wind_electricity,total wind production,,kilowatt-hours,million
+Germany,2009,38647.0,wind_electricity,total wind production,,kilowatt-hours,million
+Germany,2010,37793.0,wind_electricity,total wind production,,kilowatt-hours,million
+Germany,2011,48883.0,wind_electricity,total wind production,,kilowatt-hours,million
+Germany,2012,50670.0,wind_electricity,total wind production,,kilowatt-hours,million
+Germany,2013,51708.0,wind_electricity,total wind production,,kilowatt-hours,million
+Germany,2014,57357.0,wind_electricity,total wind production,,kilowatt-hours,million
+Italy,1990,2.0,wind_electricity,total wind production,,kilowatt-hours,million
+Italy,1991,3.0,wind_electricity,total wind production,,kilowatt-hours,million
+Italy,1992,2.0,wind_electricity,total wind production,,kilowatt-hours,million
+Italy,1993,4.0,wind_electricity,total wind production,,kilowatt-hours,million
+Italy,1994,7.0,wind_electricity,total wind production,,kilowatt-hours,million
+Italy,1995,9.0,wind_electricity,total wind production,,kilowatt-hours,million
+Italy,1996,33.0,wind_electricity,total wind production,,kilowatt-hours,million
+Italy,1997,118.0,wind_electricity,total wind production,,kilowatt-hours,million
+Italy,1998,231.0,wind_electricity,total wind production,,kilowatt-hours,million
+Italy,1999,403.0,wind_electricity,total wind production,,kilowatt-hours,million
+Italy,2000,563.0,wind_electricity,total wind production,,kilowatt-hours,million
+Italy,2001,1179.0,wind_electricity,total wind production,,kilowatt-hours,million
+Italy,2002,1404.0,wind_electricity,total wind production,,kilowatt-hours,million
+Italy,2003,1458.0,wind_electricity,total wind production,,kilowatt-hours,million
+Italy,2004,1847.0,wind_electricity,total wind production,,kilowatt-hours,million
+Italy,2005,2344.0,wind_electricity,total wind production,,kilowatt-hours,million
+Italy,2006,2971.0,wind_electricity,total wind production,,kilowatt-hours,million
+Italy,2007,4034.0,wind_electricity,total wind production,,kilowatt-hours,million
+Italy,2008,4861.0,wind_electricity,total wind production,,kilowatt-hours,million
+Italy,2009,6543.0,wind_electricity,total wind production,,kilowatt-hours,million
+Italy,2010,9126.0,wind_electricity,total wind production,,kilowatt-hours,million
+Italy,2011,9856.0,wind_electricity,total wind production,,kilowatt-hours,million
+Italy,2012,13407.0,wind_electricity,total wind production,,kilowatt-hours,million
+Italy,2013,14897.0,wind_electricity,total wind production,,kilowatt-hours,million
+Italy,2014,15178.0,wind_electricity,total wind production,,kilowatt-hours,million
+Netherlands,1990,56.0,wind_electricity,total wind production,,kilowatt-hours,million
+Netherlands,1991,88.0,wind_electricity,total wind production,,kilowatt-hours,million
+Netherlands,1992,147.0,wind_electricity,total wind production,,kilowatt-hours,million
+Netherlands,1993,174.0,wind_electricity,total wind production,,kilowatt-hours,million
+Netherlands,1994,238.0,wind_electricity,total wind production,,kilowatt-hours,million
+Netherlands,1995,317.0,wind_electricity,total wind production,,kilowatt-hours,million
+Netherlands,1996,437.0,wind_electricity,total wind production,,kilowatt-hours,million
+Netherlands,1997,475.0,wind_electricity,total wind production,,kilowatt-hours,million
+Netherlands,1998,640.0,wind_electricity,total wind production,,kilowatt-hours,million
+Netherlands,1999,645.0,wind_electricity,total wind production,,kilowatt-hours,million
+Netherlands,2000,829.0,wind_electricity,total wind production,,kilowatt-hours,million
+Netherlands,2001,825.0,wind_electricity,total wind production,,kilowatt-hours,million
+Netherlands,2002,947.0,wind_electricity,total wind production,,kilowatt-hours,million
+Netherlands,2003,1320.0,wind_electricity,total wind production,,kilowatt-hours,million
+Netherlands,2004,1871.0,wind_electricity,total wind production,,kilowatt-hours,million
+Netherlands,2005,2067.0,wind_electricity,total wind production,,kilowatt-hours,million
+Netherlands,2006,2735.0,wind_electricity,total wind production,,kilowatt-hours,million
+Netherlands,2007,3438.0,wind_electricity,total wind production,,kilowatt-hours,million
+Netherlands,2008,4260.0,wind_electricity,total wind production,,kilowatt-hours,million
+Netherlands,2009,4581.0,wind_electricity,total wind production,,kilowatt-hours,million
+Netherlands,2010,3994.0,wind_electricity,total wind production,,kilowatt-hours,million
+Netherlands,2011,5101.0,wind_electricity,total wind production,,kilowatt-hours,million
+Netherlands,2012,4981.0,wind_electricity,total wind production,,kilowatt-hours,million
+Netherlands,2013,5627.0,wind_electricity,total wind production,,kilowatt-hours,million
+Netherlands,2014,5797.0,wind_electricity,total wind production,,kilowatt-hours,million
+Norway,1993,7.0,wind_electricity,total wind production,,kilowatt-hours,million
+Norway,1994,9.0,wind_electricity,total wind production,,kilowatt-hours,million
+Norway,1995,10.0,wind_electricity,total wind production,,kilowatt-hours,million
+Norway,1996,9.0,wind_electricity,total wind production,,kilowatt-hours,million
+Norway,1997,11.0,wind_electricity,total wind production,,kilowatt-hours,million
+Norway,1998,11.0,wind_electricity,total wind production,,kilowatt-hours,million
+Norway,1999,25.0,wind_electricity,total wind production,,kilowatt-hours,million
+Norway,2000,31.0,wind_electricity,total wind production,,kilowatt-hours,million
+Norway,2001,27.0,wind_electricity,total wind production,,kilowatt-hours,million
+Norway,2002,75.0,wind_electricity,total wind production,,kilowatt-hours,million
+Norway,2003,218.0,wind_electricity,total wind production,,kilowatt-hours,million
+Norway,2004,252.0,wind_electricity,total wind production,,kilowatt-hours,million
+Norway,2005,499.0,wind_electricity,total wind production,,kilowatt-hours,million
+Norway,2006,636.0,wind_electricity,total wind production,,kilowatt-hours,million
+Norway,2007,892.0,wind_electricity,total wind production,,kilowatt-hours,million
+Norway,2008,913.0,wind_electricity,total wind production,,kilowatt-hours,million
+Norway,2009,977.0,wind_electricity,total wind production,,kilowatt-hours,million
+Norway,2010,879.0,wind_electricity,total wind production,,kilowatt-hours,million
+Norway,2011,1283.0,wind_electricity,total wind production,,kilowatt-hours,million
+Norway,2012,1548.0,wind_electricity,total wind production,,kilowatt-hours,million
+Norway,2013,1881.0,wind_electricity,total wind production,,kilowatt-hours,million
+Norway,2014,2216.0,wind_electricity,total wind production,,kilowatt-hours,million
+Poland,1995,1.0,wind_electricity,total wind production,,kilowatt-hours,million
+Poland,1996,0.0,wind_electricity,total wind production,,kilowatt-hours,million
+Poland,1997,2.0,wind_electricity,total wind production,,kilowatt-hours,million
+Poland,1998,4.0,wind_electricity,total wind production,,kilowatt-hours,million
+Poland,1999,4.0,wind_electricity,total wind production,,kilowatt-hours,million
+Poland,2000,5.0,wind_electricity,total wind production,,kilowatt-hours,million
+Poland,2001,14.0,wind_electricity,total wind production,,kilowatt-hours,million
+Poland,2002,61.0,wind_electricity,total wind production,,kilowatt-hours,million
+Poland,2003,124.0,wind_electricity,total wind production,,kilowatt-hours,million
+Poland,2004,142.0,wind_electricity,total wind production,,kilowatt-hours,million
+Poland,2005,135.0,wind_electricity,total wind production,,kilowatt-hours,million
+Poland,2006,256.0,wind_electricity,total wind production,,kilowatt-hours,million
+Poland,2007,522.0,wind_electricity,total wind production,,kilowatt-hours,million
+Poland,2008,837.0,wind_electricity,total wind production,,kilowatt-hours,million
+Poland,2009,1077.0,wind_electricity,total wind production,,kilowatt-hours,million
+Poland,2010,1664.0,wind_electricity,total wind production,,kilowatt-hours,million
+Poland,2011,3205.0,wind_electricity,total wind production,,kilowatt-hours,million
+Poland,2012,4747.0,wind_electricity,total wind production,,kilowatt-hours,million
+Poland,2013,6004.0,wind_electricity,total wind production,,kilowatt-hours,million
+Poland,2014,7676.0,wind_electricity,total wind production,,kilowatt-hours,million
+Spain,1990,14.0,wind_electricity,total wind production,,kilowatt-hours,million
+Spain,1991,15.0,wind_electricity,total wind production,,kilowatt-hours,million
+Spain,1992,103.0,wind_electricity,total wind production,,kilowatt-hours,million
+Spain,1993,116.0,wind_electricity,total wind production,,kilowatt-hours,million
+Spain,1994,175.0,wind_electricity,total wind production,,kilowatt-hours,million
+Spain,1995,270.0,wind_electricity,total wind production,,kilowatt-hours,million
+Spain,1996,364.0,wind_electricity,total wind production,,kilowatt-hours,million
+Spain,1997,742.0,wind_electricity,total wind production,,kilowatt-hours,million
+Spain,1998,1352.0,wind_electricity,total wind production,,kilowatt-hours,million
+Spain,1999,2744.0,wind_electricity,total wind production,,kilowatt-hours,million
+Spain,2000,4727.0,wind_electricity,total wind production,,kilowatt-hours,million
+Spain,2001,6759.0,wind_electricity,total wind production,,kilowatt-hours,million
+Spain,2002,9342.0,wind_electricity,total wind production,,kilowatt-hours,million
+Spain,2003,12075.0,wind_electricity,total wind production,,kilowatt-hours,million
+Spain,2004,15700.0,wind_electricity,total wind production,,kilowatt-hours,million
+Spain,2005,21176.0,wind_electricity,total wind production,,kilowatt-hours,million
+Spain,2006,23297.0,wind_electricity,total wind production,,kilowatt-hours,million
+Spain,2007,27568.0,wind_electricity,total wind production,,kilowatt-hours,million
+Spain,2008,32946.0,wind_electricity,total wind production,,kilowatt-hours,million
+Spain,2009,38117.0,wind_electricity,total wind production,,kilowatt-hours,million
+Spain,2010,44271.0,wind_electricity,total wind production,,kilowatt-hours,million
+Spain,2011,42918.0,wind_electricity,total wind production,,kilowatt-hours,million
+Spain,2012,49472.0,wind_electricity,total wind production,,kilowatt-hours,million
+Spain,2013,55646.0,wind_electricity,total wind production,,kilowatt-hours,million
+Spain,2014,52013.0,wind_electricity,total wind production,,kilowatt-hours,million
+Sweden,1990,6.0,wind_electricity,total wind production,,kilowatt-hours,million
+Sweden,1991,13.0,wind_electricity,total wind production,,kilowatt-hours,million
+Sweden,1992,31.0,wind_electricity,total wind production,,kilowatt-hours,million
+Sweden,1993,48.0,wind_electricity,total wind production,,kilowatt-hours,million
+Sweden,1994,72.0,wind_electricity,total wind production,,kilowatt-hours,million
+Sweden,1995,99.0,wind_electricity,total wind production,,kilowatt-hours,million
+Sweden,1996,144.0,wind_electricity,total wind production,,kilowatt-hours,million
+Sweden,1997,203.0,wind_electricity,total wind production,,kilowatt-hours,million
+Sweden,1998,317.0,wind_electricity,total wind production,,kilowatt-hours,million
+Sweden,1999,358.0,wind_electricity,total wind production,,kilowatt-hours,million
+Sweden,2000,457.0,wind_electricity,total wind production,,kilowatt-hours,million
+Sweden,2001,482.0,wind_electricity,total wind production,,kilowatt-hours,million
+Sweden,2002,608.0,wind_electricity,total wind production,,kilowatt-hours,million
+Sweden,2003,679.0,wind_electricity,total wind production,,kilowatt-hours,million
+Sweden,2004,850.0,wind_electricity,total wind production,,kilowatt-hours,million
+Sweden,2005,936.0,wind_electricity,total wind production,,kilowatt-hours,million
+Sweden,2006,987.0,wind_electricity,total wind production,,kilowatt-hours,million
+Sweden,2007,1430.0,wind_electricity,total wind production,,kilowatt-hours,million
+Sweden,2008,1996.0,wind_electricity,total wind production,,kilowatt-hours,million
+Sweden,2009,2485.0,wind_electricity,total wind production,,kilowatt-hours,million
+Sweden,2010,3502.0,wind_electricity,total wind production,,kilowatt-hours,million
+Sweden,2011,6078.0,wind_electricity,total wind production,,kilowatt-hours,million
+Sweden,2012,7165.0,wind_electricity,total wind production,,kilowatt-hours,million
+Sweden,2013,9842.0,wind_electricity,total wind production,,kilowatt-hours,million
+Sweden,2014,11234.0,wind_electricity,total wind production,,kilowatt-hours,million
+Switzerland,1996,1.0,wind_electricity,total wind production,,kilowatt-hours,million
+Switzerland,1997,2.0,wind_electricity,total wind production,,kilowatt-hours,million
+Switzerland,1998,3.0,wind_electricity,total wind production,,kilowatt-hours,million
+Switzerland,1999,3.0,wind_electricity,total wind production,,kilowatt-hours,million
+Switzerland,2000,3.0,wind_electricity,total wind production,,kilowatt-hours,million
+Switzerland,2001,4.0,wind_electricity,total wind production,,kilowatt-hours,million
+Switzerland,2002,5.0,wind_electricity,total wind production,,kilowatt-hours,million
+Switzerland,2003,5.0,wind_electricity,total wind production,,kilowatt-hours,million
+Switzerland,2004,6.0,wind_electricity,total wind production,,kilowatt-hours,million
+Switzerland,2005,8.0,wind_electricity,total wind production,,kilowatt-hours,million
+Switzerland,2006,15.0,wind_electricity,total wind production,,kilowatt-hours,million
+Switzerland,2007,16.0,wind_electricity,total wind production,,kilowatt-hours,million
+Switzerland,2008,19.0,wind_electricity,total wind production,,kilowatt-hours,million
+Switzerland,2009,23.0,wind_electricity,total wind production,,kilowatt-hours,million
+Switzerland,2010,37.0,wind_electricity,total wind production,,kilowatt-hours,million
+Switzerland,2011,70.0,wind_electricity,total wind production,,kilowatt-hours,million
+Switzerland,2012,88.0,wind_electricity,total wind production,,kilowatt-hours,million
+Switzerland,2013,90.0,wind_electricity,total wind production,,kilowatt-hours,million
+Switzerland,2014,101.0,wind_electricity,total wind production,,kilowatt-hours,million
+Turkey,1998,5.0,wind_electricity,total wind production,,kilowatt-hours,million
+Turkey,1999,21.0,wind_electricity,total wind production,,kilowatt-hours,million
+Turkey,2000,33.0,wind_electricity,total wind production,,kilowatt-hours,million
+Turkey,2001,62.0,wind_electricity,total wind production,,kilowatt-hours,million
+Turkey,2002,48.0,wind_electricity,total wind production,,kilowatt-hours,million
+Turkey,2003,61.0,wind_electricity,total wind production,,kilowatt-hours,million
+Turkey,2004,58.0,wind_electricity,total wind production,,kilowatt-hours,million
+Turkey,2005,59.0,wind_electricity,total wind production,,kilowatt-hours,million
+Turkey,2006,127.0,wind_electricity,total wind production,,kilowatt-hours,million
+Turkey,2007,355.0,wind_electricity,total wind production,,kilowatt-hours,million
+Turkey,2008,847.0,wind_electricity,total wind production,,kilowatt-hours,million
+Turkey,2009,1495.0,wind_electricity,total wind production,,kilowatt-hours,million
+Turkey,2010,2916.0,wind_electricity,total wind production,,kilowatt-hours,million
+Turkey,2011,4723.0,wind_electricity,total wind production,,kilowatt-hours,million
+Turkey,2012,5860.0,wind_electricity,total wind production,,kilowatt-hours,million
+Turkey,2013,7557.0,wind_electricity,total wind production,,kilowatt-hours,million
+Turkey,2014,8520.0,wind_electricity,total wind production,,kilowatt-hours,million
+United States,1990,3066.0,wind_electricity,total wind production,,kilowatt-hours,million
+United States,1991,3051.0,wind_electricity,total wind production,,kilowatt-hours,million
+United States,1992,2917.0,wind_electricity,total wind production,,kilowatt-hours,million
+United States,1993,3053.0,wind_electricity,total wind production,,kilowatt-hours,million
+United States,1994,3483.0,wind_electricity,total wind production,,kilowatt-hours,million
+United States,1995,3196.0,wind_electricity,total wind production,,kilowatt-hours,million
+United States,1996,3410.0,wind_electricity,total wind production,,kilowatt-hours,million
+United States,1997,3254.0,wind_electricity,total wind production,,kilowatt-hours,million
+United States,1998,3018.0,wind_electricity,total wind production,,kilowatt-hours,million
+United States,1999,4802.0,wind_electricity,total wind production,,kilowatt-hours,million
+United States,2000,5650.0,wind_electricity,total wind production,,kilowatt-hours,million
+United States,2001,6806.0,wind_electricity,total wind production,,kilowatt-hours,million
+United States,2002,10459.0,wind_electricity,total wind production,,kilowatt-hours,million
+United States,2003,11300.0,wind_electricity,total wind production,,kilowatt-hours,million
+United States,2004,14291.0,wind_electricity,total wind production,,kilowatt-hours,million
+United States,2005,17881.0,wind_electricity,total wind production,,kilowatt-hours,million
+United States,2006,26676.0,wind_electricity,total wind production,,kilowatt-hours,million
+United States,2007,34603.0,wind_electricity,total wind production,,kilowatt-hours,million
+United States,2008,55696.0,wind_electricity,total wind production,,kilowatt-hours,million
+United States,2009,74226.0,wind_electricity,total wind production,,kilowatt-hours,million
+United States,2010,95148.0,wind_electricity,total wind production,,kilowatt-hours,million
+United States,2011,120854.0,wind_electricity,total wind production,,kilowatt-hours,million
+United States,2012,141922.0,wind_electricity,total wind production,,kilowatt-hours,million
+United States,2013,169713.0,wind_electricity,total wind production,,kilowatt-hours,million
+United States,2014,183892.0,wind_electricity,total wind production,,kilowatt-hours,million
+Canada,1992,59.0,wind_electricity,total wind production,,kilowatt-hours,million
+Canada,1993,59.0,wind_electricity,total wind production,,kilowatt-hours,million
+Canada,1994,59.0,wind_electricity,total wind production,,kilowatt-hours,million
+Canada,1995,59.0,wind_electricity,total wind production,,kilowatt-hours,million
+Canada,1996,62.0,wind_electricity,total wind production,,kilowatt-hours,million
+Canada,1997,62.0,wind_electricity,total wind production,,kilowatt-hours,million
+Canada,1998,62.0,wind_electricity,total wind production,,kilowatt-hours,million
+Canada,1999,164.0,wind_electricity,total wind production,,kilowatt-hours,million
+Canada,2000,264.0,wind_electricity,total wind production,,kilowatt-hours,million
+Canada,2001,337.0,wind_electricity,total wind production,,kilowatt-hours,million
+Canada,2002,408.0,wind_electricity,total wind production,,kilowatt-hours,million
+Canada,2003,826.0,wind_electricity,total wind production,,kilowatt-hours,million
+Canada,2004,954.0,wind_electricity,total wind production,,kilowatt-hours,million
+Canada,2005,1567.0,wind_electricity,total wind production,,kilowatt-hours,million
+Canada,2006,2473.0,wind_electricity,total wind production,,kilowatt-hours,million
+Canada,2007,3007.0,wind_electricity,total wind production,,kilowatt-hours,million
+Canada,2008,3788.0,wind_electricity,total wind production,,kilowatt-hours,million
+Canada,2009,6641.0,wind_electricity,total wind production,,kilowatt-hours,million
+Canada,2010,8724.0,wind_electricity,total wind production,,kilowatt-hours,million
+Canada,2011,10187.0,wind_electricity,total wind production,,kilowatt-hours,million
+Canada,2012,11310.0,wind_electricity,total wind production,,kilowatt-hours,million
+Canada,2013,17963.0,wind_electricity,total wind production,,kilowatt-hours,million
+Canada,2014,22538.0,wind_electricity,total wind production,,kilowatt-hours,million
+China,2010,44622.0,wind_electricity,total wind production,,kilowatt-hours,million
+China,2011,70331.0,wind_electricity,total wind production,,kilowatt-hours,million
+China,2012,95978.0,wind_electricity,total wind production,,kilowatt-hours,million
+China,2013,141197.0,wind_electricity,total wind production,,kilowatt-hours,million
+China,2014,156078.0,wind_electricity,total wind production,,kilowatt-hours,million
+India,1990,32.0,wind_electricity,total wind production,,kilowatt-hours,million
+India,1991,39.0,wind_electricity,total wind production,,kilowatt-hours,million
+India,1992,52.0,wind_electricity,total wind production,,kilowatt-hours,million
+India,1993,57.0,wind_electricity,total wind production,,kilowatt-hours,million
+India,1994,182.0,wind_electricity,total wind production,,kilowatt-hours,million
+India,1995,498.0,wind_electricity,total wind production,,kilowatt-hours,million
+India,1996,926.0,wind_electricity,total wind production,,kilowatt-hours,million
+India,1997,1037.0,wind_electricity,total wind production,,kilowatt-hours,million
+India,1998,1127.0,wind_electricity,total wind production,,kilowatt-hours,million
+India,1999,1509.0,wind_electricity,total wind production,,kilowatt-hours,million
+India,2000,1582.0,wind_electricity,total wind production,,kilowatt-hours,million
+India,2001,2085.0,wind_electricity,total wind production,,kilowatt-hours,million
+India,2002,2511.0,wind_electricity,total wind production,,kilowatt-hours,million
+India,2003,3402.0,wind_electricity,total wind production,,kilowatt-hours,million
+India,2004,4295.0,wind_electricity,total wind production,,kilowatt-hours,million
+India,2005,5991.0,wind_electricity,total wind production,,kilowatt-hours,million
+India,2006,9547.0,wind_electricity,total wind production,,kilowatt-hours,million
+India,2007,11413.0,wind_electricity,total wind production,,kilowatt-hours,million
+India,2008,13334.0,wind_electricity,total wind production,,kilowatt-hours,million
+India,2009,18188.0,wind_electricity,total wind production,,kilowatt-hours,million
+India,2010,18735.0,wind_electricity,total wind production,,kilowatt-hours,million
+India,2011,23353.0,wind_electricity,total wind production,,kilowatt-hours,million
+India,2012,28365.0,wind_electricity,total wind production,,kilowatt-hours,million
+India,2013,33583.0,wind_electricity,total wind production,,kilowatt-hours,million
+India,2014,27057.0,wind_electricity,total wind production,,kilowatt-hours,million
+United Kingdom,1990,9.0,wind_electricity,total wind production,,kilowatt-hours,million
+United Kingdom,1991,11.0,wind_electricity,total wind production,,kilowatt-hours,million
+United Kingdom,1992,40.0,wind_electricity,total wind production,,kilowatt-hours,million
+United Kingdom,1993,218.0,wind_electricity,total wind production,,kilowatt-hours,million
+United Kingdom,1994,342.0,wind_electricity,total wind production,,kilowatt-hours,million
+United Kingdom,1995,391.0,wind_electricity,total wind production,,kilowatt-hours,million
+United Kingdom,1996,488.0,wind_electricity,total wind production,,kilowatt-hours,million
+United Kingdom,1997,667.0,wind_electricity,total wind production,,kilowatt-hours,million
+United Kingdom,1998,877.0,wind_electricity,total wind production,,kilowatt-hours,million
+United Kingdom,1999,850.0,wind_electricity,total wind production,,kilowatt-hours,million
+United Kingdom,2000,947.0,wind_electricity,total wind production,,kilowatt-hours,million
+United Kingdom,2001,965.0,wind_electricity,total wind production,,kilowatt-hours,million
+United Kingdom,2002,1256.0,wind_electricity,total wind production,,kilowatt-hours,million
+United Kingdom,2003,1285.0,wind_electricity,total wind production,,kilowatt-hours,million
+United Kingdom,2004,1935.0,wind_electricity,total wind production,,kilowatt-hours,million
+United Kingdom,2005,2904.0,wind_electricity,total wind production,,kilowatt-hours,million
+United Kingdom,2006,4225.0,wind_electricity,total wind production,,kilowatt-hours,million
+United Kingdom,2007,5274.0,wind_electricity,total wind production,,kilowatt-hours,million
+United Kingdom,2008,7124.0,wind_electricity,total wind production,,kilowatt-hours,million
+United Kingdom,2009,9283.0,wind_electricity,total wind production,,kilowatt-hours,million
+United Kingdom,2010,10255.0,wind_electricity,total wind production,,kilowatt-hours,million
+United Kingdom,2011,15652.0,wind_electricity,total wind production,,kilowatt-hours,million
+United Kingdom,2012,19835.0,wind_electricity,total wind production,,kilowatt-hours,million
+United Kingdom,2013,28421.0,wind_electricity,total wind production,,kilowatt-hours,million
+United Kingdom,2014,32015.0,wind_electricity,total wind production,,kilowatt-hours,million
+Viet Nam,2008,1.0,wind_electricity,total wind production,,kilowatt-hours,million
+Viet Nam,2009,10.0,wind_electricity,total wind production,,kilowatt-hours,million
+Viet Nam,2010,50.0,wind_electricity,total wind production,,kilowatt-hours,million
+Viet Nam,2011,87.0,wind_electricity,total wind production,,kilowatt-hours,million
+Viet Nam,2012,92.0,wind_electricity,total wind production,,kilowatt-hours,million
+Viet Nam,2013,92.0,wind_electricity,total wind production,,kilowatt-hours,million
+Viet Nam,2014,300.0,wind_electricity,total wind production,,kilowatt-hours,million
